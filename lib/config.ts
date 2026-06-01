@@ -1,13 +1,13 @@
 import type { SiteConfig } from './types';
 
 export const SITE_CONFIG: SiteConfig = {
-  name: 'Your Business',
+  name: ' Pohoda Joga Trenčín',
   tagline: '',
   templateType: 'services',
-  palette: 'clean-light',
+  palette: 'natural',
   language: 'sk',
-  headingFont: 'inter',
-  whatsappNumber: '',
-  contactEmail: '',
+  headingFont: 'playfair',
+  whatsappNumber: '421900000000',
+  contactEmail: 'info@pohodajoga.sk',
   googleReviewsUrl: '',
 };
